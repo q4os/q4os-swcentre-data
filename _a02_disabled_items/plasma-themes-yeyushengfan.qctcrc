@@ -1,0 +1,10 @@
+[General]
+name_package=plasma-themes-yeyushengfan
+name_apd=Windows themes
+icon=plasma-themes-yeyushengfan
+rating=7.35
+download_site=
+description=A collection of Windows like themes for Plasma desktop.
+distributions=none;
+desktops=plasma;
+architectures=all;

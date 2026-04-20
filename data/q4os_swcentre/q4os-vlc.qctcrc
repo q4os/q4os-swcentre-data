@@ -1,0 +1,10 @@
+[General]
+name_package=q4os-vlc
+name_apd=VLC media player
+icon=vlc
+rating=5.90
+download_site=
+description=Multimedia player and streamer.
+distributions=raspbian12;bullseye;bookworm;trixie;forky;
+desktops=all;
+architectures=all;

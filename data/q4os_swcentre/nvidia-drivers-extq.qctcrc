@@ -1,0 +1,10 @@
+[General]
+name_package=nvidia-drivers-extq
+name_apd=NVIDIA drivers
+icon=nvidia-drivers-extq
+rating=5.17
+download_site=
+description=Proprietary drivers for NVIDIA video cards.
+distributions=bullseye;bookworm;trixie;forky;
+desktops=all;
+architectures=amd64;

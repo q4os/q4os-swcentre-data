@@ -1,0 +1,10 @@
+[General]
+name_package=q4os-ventoy
+name_apd=Ventoy
+icon=ventoy
+rating=3.00
+download_site=http://sourceforge.net/projects/q4os/files/experimental_apps
+description=Tool to create multiboot USB from iso files.
+distributions=bullseye;
+desktops=all;
+architectures=all;

@@ -1,0 +1,10 @@
+[General]
+name_package=q4os-firefox-esr
+name_apd=Firefox ESR
+icon=firefox-esr
+rating=7.76
+download_site=
+description=The extended support release of the Mozilla Firefox web browser.
+distributions=bullseye;bookworm;
+desktops=all;
+architectures=arm64;armhf

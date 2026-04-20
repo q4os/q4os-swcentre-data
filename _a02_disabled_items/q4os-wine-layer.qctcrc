@@ -1,0 +1,9 @@
+[General]
+name_package=q4os-wine-layer
+name_apd=Wine
+icon=q4os-wine-layer
+rating=4.11
+download_site=
+description=Install and use native Windows applications.
+distributions=bullseye;bookworm;
+architectures=amd64;i386;

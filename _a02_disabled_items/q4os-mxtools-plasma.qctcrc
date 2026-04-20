@@ -1,0 +1,10 @@
+[General]
+name_package=q4os-mxtools-plasma
+name_apd=MX Tools
+icon=q4os-mxtools-plasma
+rating=5.54
+download_site=http://sourceforge.net/projects/q4os/files/experimental_apps
+description=Various tools for Linux users.
+distributions=bullseye;
+desktops=plasma;
+architectures=amd64;i386;

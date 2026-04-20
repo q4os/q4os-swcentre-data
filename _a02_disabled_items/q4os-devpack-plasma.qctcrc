@@ -1,0 +1,10 @@
+[General]
+name_package=q4os-devpack-plasma
+name_apd=Development pack
+icon=q4os-devpack-plasma
+rating=1.7
+download_site=
+description=Develop software for Q4OS.
+distributions=bullseye;
+desktops=plasma;
+architectures=all;

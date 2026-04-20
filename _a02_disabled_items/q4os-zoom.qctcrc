@@ -1,0 +1,10 @@
+[General]
+name_package=q4os-zoom
+name_apd=Zoom
+icon=q4os-zoom
+rating=2.40
+download_site=http://sourceforge.net/projects/q4os/files/experimental_apps
+description=Communication client.
+distributions=bullseye;
+desktops=all;
+architectures=amd64;

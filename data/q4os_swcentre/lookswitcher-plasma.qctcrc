@@ -1,0 +1,10 @@
+[General]
+name_package=lookswitcher-plasma
+name_apd=LookSwitcher
+icon=lookswitcher-plasma
+rating=5.91
+download_site=
+description=Switch between different visual Plasma desktop themes.
+distributions=raspbian12;bullseye;bookworm;trixie;forky;jammy;noble;resolute;
+desktops=plasma;
+architectures=all;

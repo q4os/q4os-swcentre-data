@@ -1,0 +1,9 @@
+[General]
+name_package=q4os-palemoon
+name_apd=Palemoon
+icon=palemoon
+rating=4.36
+download_site=
+description=Palemoon is lightweight, efficient and easy to use web browser.
+distributions=bullseye;
+architectures=amd64;i386;arm64;armhf;

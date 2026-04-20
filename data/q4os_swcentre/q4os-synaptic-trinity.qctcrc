@@ -1,0 +1,10 @@
+[General]
+name_package=q4os-synaptic-trinity
+name_apd=Synaptic
+icon=synaptic
+rating=9.70
+download_site=
+description=Synaptic package manager enables you to install, upgrade and remove packages from system repositories in a user friendly way.
+distributions=raspbian12;bullseye;bookworm;trixie;forky;jammy;noble;resolute;
+desktops=trinity;
+architectures=all;

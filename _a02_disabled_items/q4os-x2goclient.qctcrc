@@ -1,0 +1,10 @@
+[General]
+name_package=q4os-x2goclient
+name_apd=X2Go Client
+icon=q4os-x2goclient
+rating=3.82
+download_site=
+description=Desktop client for X2Go servers.
+distributions=none;
+desktops=trinity;
+architectures=all;

@@ -1,0 +1,10 @@
+[General]
+name_package=q4os-firefox
+name_apd=Mozilla Firefox
+icon=firefox
+rating=7.76
+download_site=
+description=The Mozilla Firefox web browser.
+distributions=bullseye;bookworm;trixie;forky;
+desktops=all;
+architectures=amd64;i386;

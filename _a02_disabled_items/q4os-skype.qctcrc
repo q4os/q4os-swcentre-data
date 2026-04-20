@@ -1,0 +1,9 @@
+[General]
+name_package=q4os-skype
+name_apd=Skype
+icon=q4os-skype
+rating=1.02
+download_site=
+description=Wherever you are, wherever they are Skype keeps you together. Call, see, message and share with others.
+distributions=bookworm;jammy;noble;resolute;
+architectures=amd64;

@@ -1,0 +1,24 @@
+### 0.app |:| 1.rating |:| 2.icon |:| 3.appdesc |:| 4.description |:| 5.desktops |:| 6.distributions |:| 7.architectures |:| 8.dependencies |:| 9.repositories |:|
+
+com.brave.Browser |:| 7.02 |:| com.brave.Browser |:| Brave |:| Fast browser with AI and adblock. |:| |:| |:| amd64;
+com.opera.Opera |:| 6.78 |:| opera |:| Opera |:| Opera browser is fully-featured for privacy, security, and everything you do online. |:| |:| |:| amd64;
+com.vivaldi.Vivaldi |:| 6.91 |:| vivaldi |:| Vivaldi |:| Feature packed web browser. |:| |:| |:| amd64;
+com.microsoft.Edge |:| 4.34 |:| edge |:| Microsoft Edge |:| Microsoft Edge web browser. |:| |:| |:| amd64;
+com.spotify.Client |:| 6.25 |:| com.spotify.Client |:| Spotify client |:| Online music streaming service. |:| |:| |:| amd64;
+com.discordapp.Discord |:| 4.98 |:| discord |:| Discord |:| Messaging, voice and video client. |:| |:| |:| amd64;
+org.ppsspp.PPSSPP |:| 3.56 |:| org.ppsspp.PPSSPP |:| Ppsspp |:| A PlayStation portable emulator. |:| |:| |:| amd64;
+com.rustdesk.RustDesk |:| 5.80 |:| rustdesk |:| Rustdesk |:| An open-source remote desktop application designed for self-hosting. |:| |:| |:| amd64;
+us.zoom.Zoom |:| 5.84 |:| us.zoom.Zoom |:| Zoom client |:| Video Conferencing, web conferencing, webinars, screen sharing. |:| |:| |:| amd64;
+com.protonvpn.www |:| 3.47 |:| protonvpn |:| Proton VPN |:| Proton VPN protects your online privacy. |:| |:| |:| amd64;
+com.dropbox.Client |:| 3.96 |:| dropbox |:| Dropbox |:| Access your files from any computer. |:| |:| |:| amd64;
+com.github.unrud.VideoDownloader |:| 5.39 |:| youtube-downloader |:| Video downloader |:| Video downloader with an easy to use interface to get videos from Youtube and other sites. |:| |:| |:| amd64;
+org.dupot.easyflatpak |:| 4.13 |:| org.dupot.easyflatpak |:| Easy flatpak |:| Graphical user interface and manager for Flatpak applications. |:| |:| |:| amd64;
+dev.zed.Zed |:| 3.14 |:| dev.zed.Zed |:| Zed editor |:| Advanced context editor for developers with AI integration. |:| |:| |:| amd64;
+io.github.peazip.PeaZip |:| 2.99 |:| peazip |:| PeaZip |:| File archiver utility. |:| |:| |:| amd64;
+
+#for quarkos only
+org.chromium.Chromium |:| 8.80 |:| chromium |:| Chromium |:| Chromium web browser supported by Microsoft and Google, that aims to build a safe and stable internet browsing experience. |:| |:| jammy;noble;resolute; |:| amd64;
+
+# com.google.Chrome |:| 7.15 |:| google-chrome |:| Google Chrome |:| Google Chrome is a browser that makes the web faster, safer, and easier. |:| |:| noble;resolute; |:| amd64;
+# com.anydesk.Anydesk |:| 5.70 |:| anydesk |:| Anydesk |:| Connect to a computer remotely. |:| |:| |:| amd64;
+# com.skype.Client |:| 1.02 |:| skype |:| Skype |:| Call and message skype users, with video chat support. |:| |:| |:| amd64;

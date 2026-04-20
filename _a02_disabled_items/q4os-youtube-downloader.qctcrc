@@ -1,0 +1,10 @@
+[General]
+name_package=q4os-youtube-downloader
+name_apd=Youtube downloader
+icon=q4os-youtube-downloader
+rating=4.39
+download_site=
+description=Download videos from Youtube and other websites in an easy way.
+distributions=bullseye;bookworm;
+desktops=all;
+architectures=all;

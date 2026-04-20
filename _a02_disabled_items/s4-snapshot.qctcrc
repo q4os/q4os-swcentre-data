@@ -1,0 +1,10 @@
+[General]
+name_package=s4-snapshot
+name_apd=S4 Snapshot
+icon=s4-snapshot
+rating=8.00
+download_site=
+description=Tool for creating a live-USB from a running system. Fork of Refracta and MX Snapshot optimized for use in Q4OS/Debian.
+distributions=bookworm;
+desktops=all;
+architectures=amd64;

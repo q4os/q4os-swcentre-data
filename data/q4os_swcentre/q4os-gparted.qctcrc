@@ -1,0 +1,10 @@
+[General]
+name_package=q4os-gparted
+name_apd=GParted
+icon=gparted
+rating=4.81
+download_site=
+description=Partition editor to format various types of logical and physical disks including external drives and USB sticks.
+distributions=raspbian12;bullseye;bookworm;trixie;forky;
+desktops=all;
+architectures=all;

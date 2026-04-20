@@ -1,0 +1,10 @@
+[General]
+name_package=q4os-thunderbird
+name_apd=Mozilla Thunderbird
+icon=thunderbird
+rating=6.22
+download_site=
+description=Advanced mail and messaging client.
+distributions=raspbian12;bullseye;bookworm;trixie;forky;
+desktops=all;
+architectures=all;

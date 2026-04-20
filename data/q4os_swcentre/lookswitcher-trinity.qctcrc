@@ -1,0 +1,10 @@
+[General]
+name_package=lookswitcher-trinity
+name_apd=LookSwitcher
+icon=lookswitcher-trinity
+rating=5.91
+download_site=
+description=Switch between different visual Trinity desktop themes.
+distributions=raspbian12;bullseye;bookworm;trixie;forky;jammy;noble;resolute;
+desktops=trinity;
+architectures=all;

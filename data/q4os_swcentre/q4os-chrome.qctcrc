@@ -1,0 +1,10 @@
+[General]
+name_package=q4os-chrome
+name_apd=Google Chrome
+icon=google-chrome
+rating=7.15
+download_site=
+description=Google Chrome is a browser that combines a minimal design with sophisticated technology to make the web faster, safer and easier.
+distributions=bullseye;bookworm;trixie;forky;jammy;noble;resolute;
+desktops=all;
+architectures=amd64;

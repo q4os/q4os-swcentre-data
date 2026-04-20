@@ -1,0 +1,10 @@
+[General]
+name_package=q4os-blueman-trinity
+name_apd=Blueman
+icon=blueman
+rating=4.09
+download_site=
+description=Bluetooth manager for laptops with integrated bluetooth device.
+distributions=raspbian12;bullseye;bookworm;trixie;forky;
+desktops=trinity;
+architectures=all;

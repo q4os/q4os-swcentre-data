@@ -1,0 +1,10 @@
+[General]
+name_package=q4os-x2goserver
+name_apd=X2Go Server
+icon=q4os-x2goserver
+rating=3.82
+download_site=
+description=Accelerated remote desktop server, that uses efficient NX protocol.
+distributions=none;
+desktops=trinity;
+architectures=all;

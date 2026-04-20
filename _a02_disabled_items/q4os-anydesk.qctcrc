@@ -1,0 +1,10 @@
+[General]
+name_package=q4os-anydesk
+name_apd=Anydesk
+icon=q4os-anydesk
+rating=3.00
+download_site=http://sourceforge.net/projects/q4os/files/experimental_apps
+description=Remote administration solution.
+distributions=bullseye;
+desktops=all;
+architectures=amd64;i386;

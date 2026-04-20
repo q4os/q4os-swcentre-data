@@ -1,0 +1,9 @@
+[General]
+name_package=q4os-smoffice
+name_apd=Softmaker Office
+icon=q4os-smoffice
+rating=4.87
+download_site=http://sourceforge.net/projects/q4os/files/apps
+description=SoftMaker Office is a complete office suite. It is reliable, lightning-fast and Microsoft Office-compatible.
+distributions=none;
+architectures=amd64;i386;

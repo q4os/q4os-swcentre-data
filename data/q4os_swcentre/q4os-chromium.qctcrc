@@ -1,0 +1,10 @@
+[General]
+name_package=q4os-chromium
+name_apd=Chromium
+icon=chromium
+rating=8.80
+download_site=
+description=Chromium web browser supported by Microsoft and Google, that aims to build a safe and stable internet browsing experience.
+distributions=raspbian12;bullseye;bookworm;trixie;forky;
+desktops=all;
+architectures=all;

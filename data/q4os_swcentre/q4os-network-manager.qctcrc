@@ -1,0 +1,10 @@
+[General]
+name_package=q4os-network-manager
+name_apd=Network Manager
+icon=q4os-network-manager
+rating=3.55
+download_site=
+description=Comfortable network manager applet displays available wireless networks and allows users to easily switch between them.
+distributions=bullseye;bookworm;
+desktops=trinity;
+architectures=all;

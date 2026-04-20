@@ -1,0 +1,10 @@
+[General]
+name_package=q4os-ipcodecs
+name_apd=Multimedia Codecs
+icon=q4os-ipcodecs
+rating=6.67
+download_site=
+description=Media players make use of these proprietary codecs in order to provide support for playback of DVD and other media files.
+distributions=bullseye;bookworm;trixie;forky;jammy;noble;resolute;
+desktops=all;
+architectures=all;

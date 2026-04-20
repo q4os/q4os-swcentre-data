@@ -1,0 +1,10 @@
+[General]
+name_package=virtualbox-guest-extq
+name_apd=Virtualbox Additions
+icon=virtualbox-guest-extq
+rating=3.02
+download_site=
+description=Virtualbox guest additions. Optimized drivers for those who run inside Virtualbox.
+distributions=bullseye;bookworm;trixie;forky;jammy;noble;resolute;
+desktops=all;
+architectures=amd64;

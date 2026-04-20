@@ -1,0 +1,10 @@
+[General]
+name_package=q4os-libreoffice
+name_apd=LibreOffice
+icon=libreoffice
+rating=7.36
+download_site=
+description=Professional quality office suite.
+distributions=raspbian12;bullseye;bookworm;trixie;forky;jammy;noble;resolute;
+desktops=all;
+architectures=all;

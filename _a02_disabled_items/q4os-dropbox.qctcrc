@@ -1,0 +1,10 @@
+[General]
+name_package=q4os-dropbox
+name_apd=Dropbox
+icon=q4os-dropbox
+rating=3.00
+download_site=http://sourceforge.net/projects/q4os/files/experimental_apps
+description=Dropbox client of a free on-line service that lets you bring your photos, docs, and videos anywhere and share them easily.
+distributions=bullseye;
+desktops=all;
+architectures=amd64;

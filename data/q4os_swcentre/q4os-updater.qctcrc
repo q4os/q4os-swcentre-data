@@ -1,0 +1,10 @@
+[General]
+name_package=q4os-updater
+name_apd=Update Manager
+icon=q4os-updater
+rating=7.01
+download_site=
+description=Software updater and notifier. Notify users about available security and software updates and let them upgrade on request.
+distributions=raspbian12;bullseye;bookworm;trixie;forky;jammy;noble;resolute;
+desktops=all;
+architectures=all;
