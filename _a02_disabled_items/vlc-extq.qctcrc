@@ -1,5 +1,5 @@
 [General]
-name_package=q4os-vlc
+name_package=vlc-extq
 name_apd=VLC media player
 icon=vlc
 rating=5.90

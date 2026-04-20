@@ -1,8 +1,5 @@
 ### 0.app |:| 1.rating |:| 2.icon |:| 3.appdesc |:| 4.description |:| 5.desktops |:| 6.distributions |:| 7.architectures |:| 8.dependencies |:| 9.repositories |:|
 
-#q4os-gparted |:| 4.81 |:| gparted |:| GParted          |:| Partition editor to format various types of logical and physical disks including external drives and USB sticks. |:| |:| bullseye;bookworm;trixie;forky;
-#q4os-vlc     |:| 5.90 |:| vlc     |:| VLC media player |:| Multimedia player and streamer.                                                                                  |:| |:| bullseye;bookworm;trixie;forky;
-
 #smtube_buggy
 #youtubedl-gui_buggy |:| 4.29 |:| |:| Youtube downloader |:| Download videos from Youtube |:| |:| bookworm;trixie;forky;noble;resolute;
 #doomsday_no-wad-data
@@ -14,6 +11,7 @@ flatpak-extq |:| 8.93 |:| flatpak |:| Flatpak |:| Flatpak framework enables inst
 smplayer |:| 6.90
 synaptic |:| 5.91 |:| |:| Synaptic |:| |:| plasma;
 synaptic |:| 9.19 |:| |:| Synaptic |:| |:| lxqt;xfce;lxde;mate;
+vlc |:| 5.40
 strawberry |:| 5.04 |:| |:| |:| |:| |:| bookworm;trixie;forky;noble;resolute;
 q4os-imager |:| 4.98 |:| |:| Q4OS imager |:| Create Q4OS live bootable USB. Imager downloads installation images and writes them to a USB stick.
 hplip-gui |:| 4.97 |:| q4hplogo |:| HP drivers |:| Hewlett-Packard tools and drivers for various types of HP printers, scanners and other devices.
@@ -102,7 +100,6 @@ firefox          |:| 7.76 |:| |:| |:| |:| |:| jammy;noble;resolute;
 #chromium-browser |:| 7.50 |:| |:| |:| |:| |:| jammy;noble;resolute;
 #libreoffice      |:| 7.36 |:| |:| |:| |:| |:| jammy;noble;resolute;
 thunderbird      |:| 6.22 |:| |:| |:| |:| |:| jammy;noble;resolute;
-vlc              |:| 5.90 |:| |:| |:| |:| |:| jammy;noble;resolute;
 gparted          |:| 4.81 |:| |:| |:| |:| |:| jammy;noble;resolute;
 
 ##raspbian specific:
