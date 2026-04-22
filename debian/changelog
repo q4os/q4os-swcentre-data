@@ -1,3 +1,10 @@
+q4os-swcentre-data (4.26.1-a1) UNRELEASED; urgency=medium
+
+  * Replace smplayer with smplayer-extq package
+  * Add libreoffice-extq for new distros Forky, Resolute
+
+ -- Q4OS Team <devteam@q4os.org>  Wed, 22 Apr 2026 10:57:07 +0200
+
 q4os-swcentre-data (4.25.1-a1) UNRELEASED; urgency=medium
 
   * Initial commit
