@@ -8,7 +8,7 @@
 
 plasma-discover |:| 9.10 |:| plasmadiscover |:| Plasma Discover |:| |:| plasma;
 flatpak-extq |:| 8.93 |:| flatpak |:| Flatpak |:| Flatpak framework enables installation of large number of various desktop applications and games. |:| |:| |:| amd64;
-smplayer |:| 6.90 |:| |:| |:| Complete multimedia player
+#smplayer |:| 6.90 |:| |:| |:| Complete multimedia player.
 synaptic |:| 5.91 |:| |:| Synaptic |:| |:| plasma;
 synaptic |:| 9.19 |:| |:| Synaptic |:| |:| lxqt;xfce;lxde;mate;
 vlc |:| 5.40

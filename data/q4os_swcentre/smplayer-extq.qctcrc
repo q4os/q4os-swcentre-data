@@ -1,0 +1,10 @@
+[General]
+name_package=smplayer-extq
+name_apd=Smplayer
+icon=smplayer
+rating=6.90
+download_site=
+description=Complete multimedia player.
+distributions=raspbian12;bullseye;bookworm;trixie;forky;jammy;noble;resolute;
+desktops=all;
+architectures=all;
