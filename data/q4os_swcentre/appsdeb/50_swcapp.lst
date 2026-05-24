@@ -89,6 +89,7 @@ partitionmanager |:| |:| |:| |:| |:| plasma;
 kolourpaint |:| |:| |:| |:| |:| plasma;
 #apper_buggy-https://www.q4os.org/forum/viewtopic.php?pid=28901#p28901 |:| |:| |:| |:| |:| plasma;
 
+ksnapshot-trinity |:| |:| ksnapshot |:| |:| |:| trinity;
 kmail-trinity |:| |:| kmail |:| |:| |:| trinity;
 amarok-trinity |:| |:| amarok |:| |:| |:| trinity;
 k3b-trinity |:| |:| k3b |:| |:| |:| trinity;
