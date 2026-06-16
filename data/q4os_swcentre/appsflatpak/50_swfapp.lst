@@ -13,7 +13,6 @@ com.protonvpn.www |:| 3.47 |:| protonvpn |:| Proton VPN |:| Proton VPN protects 
 com.dropbox.Client |:| 3.96 |:| dropbox |:| Dropbox |:| Access your files from any computer. |:| |:| |:| amd64;
 com.github.unrud.VideoDownloader |:| 5.39 |:| youtube-downloader |:| Video downloader |:| Video downloader with an easy to use interface to get videos from Youtube and other sites. |:| |:| |:| amd64;
 org.dupot.easyflatpak |:| 4.13 |:| org.dupot.easyflatpak |:| Easy flatpak |:| Graphical user interface and manager for Flatpak applications. |:| |:| |:| amd64;
-dev.zed.Zed |:| 3.14 |:| dev.zed.Zed |:| Zed editor |:| Advanced context editor for developers with AI integration. |:| |:| |:| amd64;
 io.github.peazip.PeaZip |:| 2.99 |:| peazip |:| PeaZip |:| File archiver utility. |:| |:| |:| amd64;
 
 #for quarkos only
@@ -22,3 +21,6 @@ org.chromium.Chromium |:| 8.80 |:| chromium |:| Chromium |:| Chromium web browse
 # com.google.Chrome |:| 7.15 |:| google-chrome |:| Google Chrome |:| Google Chrome is a browser that makes the web faster, safer, and easier. |:| |:| noble;resolute; |:| amd64;
 # com.anydesk.Anydesk |:| 5.70 |:| anydesk |:| Anydesk |:| Connect to a computer remotely. |:| |:| |:| amd64;
 # com.skype.Client |:| 1.02 |:| skype |:| Skype |:| Call and message skype users, with video chat support. |:| |:| |:| amd64;
+
+#removed as flatpak version has issues, check and consider to add later
+# dev.zed.Zed |:| 3.14 |:| dev.zed.Zed |:| Zed editor |:| Advanced context editor for developers with AI integration. |:| |:| |:| amd64;
