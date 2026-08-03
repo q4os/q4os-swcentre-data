@@ -1,3 +1,9 @@
+q4os-swcentre-data (4.27.1-a1) UNRELEASED; urgency=medium
+
+  * Version bump for public release build.
+
+ -- Q4OS Team <devteam@q4os.org>  Mon, 03 Aug 2026 19:08:38 +0000
+
 q4os-swcentre-data (4.26.1-a1) UNRELEASED; urgency=medium
 
   * Replace smplayer with smplayer-extq package
