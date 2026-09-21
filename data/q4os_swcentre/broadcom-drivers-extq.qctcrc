@@ -1,0 +1,10 @@
+[General]
+name_package=broadcom-drivers-extq
+name_apd=Broadcom WiFi drivers
+icon=broadcom-drivers-extq
+rating=5.16
+download_site=
+description=Drivers and firmware for Broadcom wireless cards.
+distributions=bookworm;trixie;forky;
+desktops=all;
+architectures=amd64;i386;
