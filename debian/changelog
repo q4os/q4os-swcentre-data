@@ -1,3 +1,9 @@
+q4os-swcentre-data (4.27.2-a1) UNRELEASED; urgency=medium
+
+  * Software Centre: list the Broadcom WiFi drivers
+
+ -- Q4OS Team <devteam@q4os.org>  Mon, 21 Sep 2026 20:52:30 +0200
+
 q4os-swcentre-data (4.27.1-a1) UNRELEASED; urgency=medium
 
   * Version bump for public release build.
