@@ -1,3 +1,9 @@
+q4os-swcentre-data (4.27.3-a1) UNRELEASED; urgency=medium
+
+  * Software Centre: offer the Broadcom WiFi drivers on Quark as well
+
+ -- Q4OS Team <devteam@q4os.org>  Tue, 22 Sep 2026 18:50:41 +0200
+
 q4os-swcentre-data (4.27.2-a1) UNRELEASED; urgency=medium
 
   * Software Centre: list the Broadcom WiFi drivers

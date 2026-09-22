@@ -5,6 +5,6 @@ icon=broadcom-drivers-extq
 rating=5.16
 download_site=
 description=Drivers and firmware for Broadcom wireless cards.
-distributions=bookworm;trixie;forky;
+distributions=bookworm;trixie;forky;jammy;noble;resolute;
 desktops=all;
 architectures=amd64;i386;
